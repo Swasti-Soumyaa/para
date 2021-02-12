@@ -1,0 +1,3 @@
+body{
+    background: radial-gradient(circle, hsla(50, 88%, 71%, 1) 0%, hsla(50, 92%, 63%, 1) 9%, hsla(350, 91%, 65%, 1) 52%, hsla(331, 91%, 65%, 1) 88%, hsla(329, 88%, 60%, 1) 100%);
+}
